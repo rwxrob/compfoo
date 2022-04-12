@@ -8,7 +8,7 @@ package compfoo
 
 import "github.com/rwxrob/bonzai"
 
-// fulfills the bonzai.Completer interface
+// Completer fulfills the bonzai.Completer interface.
 type Completer struct{}
 
 // Complete completes everything with the word "foo" and "bar"
