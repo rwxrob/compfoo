@@ -4,7 +4,7 @@
 README.md to match your project. Make all your template changes before
 making your first commit.*
 
-[![GoDoc](https://godoc.org/github.com/rwxrob/comp-foo?status.svg)](https://godoc.org/github.com/rwxrob/comp-foo)
+[![GoDoc](https://godoc.org/github.com/rwxrob/compfoo?status.svg)](https://godoc.org/github.com/rwxrob/compfoo)
 [![License](https://img.shields.io/badge/license-Apache2-brightgreen.svg)](LICENSE)
 
 ## Style Guidelines
@@ -32,7 +32,7 @@ refer to other projects --- free or proprietary --- is prohibited.
 
 ## Reminders
 
-* Change `foo` every place to your project name (`git grep foo`)
+* Change `compfoo` every place to your project name (`git grep compfoo`)
 * Remove anything you don't need
 * Change `.github/FUNDING.yaml` to your own information
 * Update `.gitignore` to your liking
