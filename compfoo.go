@@ -12,6 +12,6 @@ import "github.com/rwxrob/bonzai"
 type Completer struct{}
 
 // Complete completes everything with the word "foo" and "bar"
-func (comp) Complete(x bonzai.Command, args ...string) []string {
+func (Completer) Complete(x bonzai.Command, args ...string) []string {
 	return []string{"foo", "bar"}
 }
